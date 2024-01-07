@@ -11,6 +11,7 @@ Multiple libraries like Pandas, SciKit-Learn, networkx were used.
 - `commandline.sh`: Shell file with the codes for the Command Line Question, we used awk command to solve the command line questions.
 - `images`: A folder containing `commandline_output.png`, showcasing the output of `commandline.sh`.
 - `top10000_dataset_code.ipynb`: is a file to create the sub dataset used during all homework
+- `test`: are two files used to check if the algorithm work correctly 
 
 
 ## Authors 
