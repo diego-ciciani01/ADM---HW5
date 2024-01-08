@@ -17,4 +17,4 @@ Multiple libraries like Pandas, SciKit-Learn, networkx were used.
 [**@Diego Ciciani**](https://github.com/diego-ciciani01). Email:  diego.ciciani@gmail.com<br>
 [**@Gabriele volzone**](https://github.com/GabraxVolz1). Email:  volzone.1917002@studenti.uniroma1.it<br>
 [**@Gloria Kim**](https://github.com/keegloria). Email:  kim.1862339@studenti.uniroma1.it<br>
-[**@Begaiym Satarova**](https://github.com/BegaiymDS). Email:  volzone.1917002@studenti.uniroma1.it<br>
+[**@Begaiym Satarova**](https://github.com/BegaiymDS). Email:  satarova.2056861@studenti.uniroma1.it<br>
